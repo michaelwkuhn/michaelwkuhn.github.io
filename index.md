@@ -1,10 +1,10 @@
 # Dr. Michael Werner Kuhn
 
-> Research and talks on waste water treatment
+> Research in waste water treatment
 
 #### Managing Partner at KUHN GmbH, Water Experts Worldwide, Höpfingen
 
-#### Official expert (amtl. annerkannter Sachverständiger) for waste water treatment, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
+#### State-approved expert (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
 
 
 ## Research
