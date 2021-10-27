@@ -1,8 +1,11 @@
 # Dr. Michael Werner Kuhn
 
+> Research and talks on waste water treatment
+
 #### Managing Partner at KUHN GmbH, Water Experts Worldwide, Höpfingen
 
-Research and talks on waste water treatment
+#### Official expert (amtl. annerkannter Sachverständiger) for waste water treatment, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
+
 
 ## Research
 
@@ -38,14 +41,14 @@ Kuhn, Michael (2015): Aspects of the Mechanical Treatment of Waste Water, Univer
 
 ## Memberships and elected Offices
 
-Member of the Advisory Board of the German Water Association DWA, Hennef
+Chair of the Advisory Board of the German Water Association DWA, Hennef
 
 Member of the German Standard Association for Waste Water Treatment Plants, DIN, Berlin
 
 Member on the Committee of Foreign Trade, IHK Rhein-Neckar, Mannheim
 
-Member of the board of German Water Partnership, Berlin Hoepfingen, January
+Member of the board of German Water Partnership, Berlin
 
 ## Contact
 
-**E-Mail:** info % kuhn-gmbh % de
+**E-Mail:** info % kuhn-gmbh % de 
