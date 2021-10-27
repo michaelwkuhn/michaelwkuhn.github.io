@@ -41,13 +41,13 @@ Kuhn, Michael (2015): Aspects of the Mechanical Treatment of Waste Water, Univer
 
 ## Memberships and elected Offices
 
-Chair of the Advisory Board of the German Water Association DWA, Hennef
+Member of the board of German Water Partnership (GWP), Berlin
 
-Member of the German Standard Association for Waste Water Treatment Plants, DIN, Berlin
+Member of the German Standard Association for Waste Water Treatment Plants (DIN), Berlin
 
-Member on the Committee of Foreign Trade, IHK Rhein-Neckar, Mannheim
+Chair of the Advisory Board of the German Water Association (DWA), Hennef
 
-Member of the board of German Water Partnership, Berlin
+Member on the Committee of Foreign Trade, Industrie- und Handelkammer Rhein-Neckar (IHK), Mannheim
 
 ## Contact
 
