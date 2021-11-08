@@ -11,9 +11,11 @@
 
 ### Journals
 
-Kuhn, Michael; Tassone, Marco; Braun, Gerhard; Kimmerle, Klaus: Stauverlust von Feinrechenanlagen, KA - Abwasser, Abfall, 65 (4), 2018, 292 – 297
+Kuhn, Michael; Immerz, Leon; Kuhn, David (2021): Die Teilstromentnahme nach DIN 19569-13 zur Ermittlung des Abscheidegrades bei Sandfängen kommunaler Kläranlagen, KA - Abwasser, Abfall, 68 (11), 2021, 913 – 917
 
-Kuhn, Michael; Tassone, Marco; Braun, Gerhard; Kimmerle, Klaus: Head losses in Fine-Screen Systems, KA - Abwasser, Abfall, International Special Edition, 2018/2019, 22 – 27
+Kuhn, Michael; Tassone, Marco; Braun, Gerhard; Kimmerle, Klaus (2018): Stauverlust von Feinrechenanlagen, KA - Abwasser, Abfall, 65 (4), 2018, 292 – 297
+
+Kuhn, Michael; Tassone, Marco; Braun, Gerhard; Kimmerle, Klaus (2018): Head losses in Fine-Screen Systems, KA - Abwasser, Abfall, International Special Edition, 2018/2019, 22 – 27
 
 Gregor, Hauke; Rupp, Wolfgang; Janoske, Uwe; Kuhn, Michael (2013): Dewatering behavior of sewage screenings, Waste Management, 33, ISSN 0956-053X, 907 – 914, http://dx.doi.org/10.1016/j.wasman.2012.11.016
 
