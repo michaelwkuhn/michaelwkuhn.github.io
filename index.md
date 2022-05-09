@@ -4,7 +4,7 @@
 
 #### Managing Partner at KUHN GmbH, Water Experts Worldwide, Höpfingen
 
-#### State-approved expert (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
+#### State-approved certified expert and auditor (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
 
 
 ## Research
