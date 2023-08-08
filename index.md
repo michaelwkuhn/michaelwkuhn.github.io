@@ -33,6 +33,8 @@ Kuhn, Michael (2008): Rechengutbehandlung. In: Eckstädt, H., Universität Rosto
 
 ### Talks
 
+Kuhn, Michael (2023): Modern and Efficient processes in STPs, Concerns and Threats of Microbial Contamination in Aquatic Ecosystems, International Conference, Chennai, India, 05.05.2023
+
 Kuhn, Michael (2022): Building Information Modeling: Standards for the Water Sector - German Experiences, WEFTEC Global Center, New Orleans, USA, 10.10.2022
 
 Kuhn, Michael (2022): ShowCaseIN - Demonstrating Successful Indo-German Cooperation in the Water Sector, IFAT India, Bombay Exhibition Center, Mumbai, India, 29.09.2022
