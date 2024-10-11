@@ -6,6 +6,7 @@
 
 #### State-approved certified expert and auditor (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
 
+#### Assistant Professor for Waste Water Technology at University of Applied Sciences in Heilbronn, Germany
 
 ## Research
 
