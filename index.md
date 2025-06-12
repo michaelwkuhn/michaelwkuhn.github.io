@@ -8,7 +8,7 @@
 
 #### Assistant Professor for Waste Water Technology at University of Applied Sciences in Heilbronn, Germany
 
-## Research
+## Research and Publications
 
 ### Journals
 
@@ -49,6 +49,16 @@ Kuhn, Michael (2015): Der Weg zur fischfreundlich(er)en Wasserkraftschnecke, 26.
 Kuhn, Michael (2014): Mengen und Trockenrückstand von Rechengut kommunaler Kläranlagen. 8. Agrosnet-Doktorandentag, Halle, 18.02.2014
 
 Michael Kuhn (2013): Rechengutentwässerung. Universität Wuppertal, Kolloquium Maschinenbau: Mechanische Entwässerung in Theorie und Praxis, 19.06.2013
+
+### Standards
+
+As a member of various committees, Mr. Kuhn has contributed to the following publications:
+
+Bavarian State Office for the Environment (2025): Code of practice 4.7/3: Checking flow measurement devices in wastewater treatment plants
+
+German Standard Association for Waste Water Treatment Plants (DIN): DIN 19569 series
+
+German Standard Association for Waste Water Treatment Plants (DIN): DIN-EN 12255 series
 
 ## Memberships and elected Offices
 
