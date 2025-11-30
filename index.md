@@ -6,6 +6,8 @@
 
 #### State-approved certified expert and auditor (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
 
+#### Certified expert for the calibration of flow regulating devices on rainwater tanks by IKT
+
 #### Assistant Professor for Waste Water Technology at University of Applied Sciences in Heilbronn, Germany
 
 ## Research and Publications
@@ -73,3 +75,4 @@ Member on the Committee of Foreign Trade, Industrie- und Handelkammer Rhein-Neck
 ## Contact
 
 **E-Mail:** info % kuhn-gmbh % de 
+
