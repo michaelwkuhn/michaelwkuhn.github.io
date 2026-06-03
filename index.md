@@ -2,17 +2,19 @@
 
 > Research in waste water treatment
 
-#### Managing Partner at KUHN GmbH, Water Experts Worldwide, Höpfingen
+#### Managing Partner at KUHN GmbH, Water Experts Worldwide, Höpfingen, Germany
 
-#### State-approved certified expert and auditor (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt) 
+#### State-approved certified expert and auditor (Amtlich anerkannter Sachverständiger) for water management, acknowledged by the state of Bavaria (Landesamt für Umwelt), Germany
 
-#### Certified expert for the calibration of flow regulating devices on rainwater tanks by IKT
+#### Certified expert for the calibration of flow regulating devices on rainwater tanks by IKT, Germany
 
 #### Assistant Professor for Waste Water Technology at University of Applied Sciences in Heilbronn, Germany
 
 ## Research and Publications
 
 ### Journals
+
+Braun, Gerhard; Kimmerle, Klaus; Weißkircher, Stefan; Kuhn, Michael; Lehmann, Boris; Faust, Matthias (2026): Feinrechen - Berechnungsmethode des Stauverlustes bei Stababständen von < 10 mm, KA - Abwasser, Abfall, 73 (4), 2026, 266 – 272
 
 Kuhn, Michael; Immerz, Leon; Kuhn, David (2021): Die Teilstromentnahme nach DIN 19569-13 zur Ermittlung des Abscheidegrades bei Sandfängen kommunaler Kläranlagen, KA - Abwasser, Abfall, 68 (11), 2021, 913 – 917
 
@@ -36,6 +38,8 @@ Kuhn, Michael (2008): Rechengutbehandlung. In: Eckstädt, H., Universität Rosto
 
 ### Talks
 
+Kuhn, Michael (2026): Advancing a Commnity of Life for Water and Cities: Science, Technology and International Cooperation for a Sustainable Blue-Green Economy, 7th ASEM Seminar on Urban Water Management, Espoo, Finland, 27.05.2026
+
 Kuhn, Michael (2023): Sustainability as a challenge for manufacturers, WEFTEC Global Center, Chicago, USA, 03.10.2023
 
 Kuhn, Michael (2023): Modern and Efficient processes in STPs, Concerns and Threats of Microbial Contamination in Aquatic Ecosystems, International Conference, Chennai, India, 05.05.2023
@@ -46,11 +50,11 @@ Kuhn, Michael (2022): ShowCaseIN - Demonstrating Successful Indo-German Cooperat
 
 Kuhn, Michael (2015): Aspects of the Mechanical Treatment of Waste Water, University of Zenica, Zenica, Bosnien – Herzegowina, 06.11.2015
 
-Kuhn, Michael (2015): Der Weg zur fischfreundlich(er)en Wasserkraftschnecke, 26. Fischereitagung der SVK, Fulda-Künzell, 03.03.2015
+Kuhn, Michael (2015): Der Weg zur fischfreundlich(er)en Wasserkraftschnecke, 26. Fischereitagung der SVK, Fulda-Künzell, Germany, 03.03.2015
 
-Kuhn, Michael (2014): Mengen und Trockenrückstand von Rechengut kommunaler Kläranlagen. 8. Agrosnet-Doktorandentag, Halle, 18.02.2014
+Kuhn, Michael (2014): Mengen und Trockenrückstand von Rechengut kommunaler Kläranlagen. 8. Agrosnet-Doktorandentag, Halle, Germany, 18.02.2014
 
-Michael Kuhn (2013): Rechengutentwässerung. Universität Wuppertal, Kolloquium Maschinenbau: Mechanische Entwässerung in Theorie und Praxis, 19.06.2013
+Michael Kuhn (2013): Rechengutentwässerung. Universität Wuppertal, Kolloquium Maschinenbau: Mechanische Entwässerung in Theorie und Praxis, Wuppertal, Germany, 19.06.2013
 
 ### Standards
 
